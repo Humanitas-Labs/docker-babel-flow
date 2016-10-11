@@ -1,3 +1,5 @@
+// github.com/humanitas-labs/docker-babel-flow
+
 var gulp = require('gulp'),
     flow = require('gulp-flowtype'),
     babel = require('gulp-babel'),
